@@ -1,0 +1,5 @@
+name: Vitalz
+author: Vitalzteam
+version: '${vitalz-version}'
+main: nl.vitalzteam.vitalz.Vitalz
+description: Vitalz is your new core plugin for Bukkit and Spigot servers. We provide all the necessary commands and settings to run your server within minutes.
